@@ -30,20 +30,11 @@
 
 
 
-<details>
+
  
 ---
 <img align="left" alt="Cagatay's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=ckaraman&show_icons=true&hide_border=true" />
   
-
-
-
-</details>
-
-<details>
-
-
-</details>
 
 
 [instagram]: https://instagram.com/flutt.code.ter?r=nametag
