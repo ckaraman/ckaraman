@@ -34,7 +34,10 @@
  
 ---
 <img align="left" alt="Cagatay's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=ckaraman&show_icons=true&hide_border=true&theme=radical" />
-  
+
+---
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ckaraman&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
 [instagram]: https://instagram.com/flutt.code.ter?r=nametag
