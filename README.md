@@ -13,8 +13,8 @@
 ### Connect with me:
 
 
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://tr.wikipedia.org/wiki/Instagram#/media/Dosya:Instagram_logo_2016.svg" />][instagram]
+[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://www.ai-expo.net/europe/wp-content/uploads/2020/04/linkedlinkedinlogosocialicon-1320191784782940875.png" />][linkedin]
+[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/e/e7/Instagram_logo_2016.svg" />][instagram]
 
 <br />
 
