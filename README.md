@@ -23,7 +23,7 @@
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="Dart" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Dart-logo.png" />
 <img align="left" alt="Flutter" width="26px" src="https://iconape.com/wp-content/files/vg/61804/png/flutter.png" />
-<img align="left" alt="Firebase" width="26px" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fseeklogo.com%2Fvector-logo%2F285376%2Ffirebase&psig=AOvVaw1sEypstgjp3BhnOZWeLByV&ust=1642686936115000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCNDVk-z7vfUCFQAAAAAdAAAAABAD" />
+<img align="left" alt="Firebase" width="26px" src="" />
 
 <br />
 <br />
