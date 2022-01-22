@@ -40,5 +40,5 @@
 
 
 [instagram]: https://instagram.com/flutt.code.ter?r=nametag
-[linkedin]: www.linkedin.com/in/çağatay-karaman
+[linkedin]: https://www.linkedin.com/in/c-karaman/
 
